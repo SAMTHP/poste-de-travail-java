@@ -1,2 +1,2 @@
 # poste-de-travail-java
-Simulate a environment for java development
+Le projet est versionné sur gitlab : https://gitlab.com/SAMAPPAGENCY/recipe-to-pdf
